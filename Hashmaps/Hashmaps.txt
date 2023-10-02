@@ -1,0 +1,13 @@
+unordered_map has time complexity of O(1).
+ordered_map i.e. map has time complexity of O(nlogn) and uses balanced BST.
+
+Iterators are used to access elements of a map(ordered and unoredered).
+
+Difference b/w set and map:-
+
+-> set stores only keys but map can stor both keys and value.
+
+Hash function gives us the random number(index) of a key, and at that index we will store the key in a bucket array(an array where we store the key)
+
+Hash function consists of two types:- -> Hash Code -> Compression Function
+

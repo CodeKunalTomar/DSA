@@ -1,0 +1,6 @@
+Types of Linked List :-
+
+1) Singly LL
+2) Doubly LL
+3) Circular LL
+4) Circular Doubly LL

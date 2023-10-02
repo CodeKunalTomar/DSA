@@ -1,0 +1,13 @@
+There are two types of Priority Queues -
+1) Min Priority Queue(whose priority is minimum
+2) Max Priority Queue(whose priority is maximum
+
+For Priority Queue we have introduced new data structure which is known as Heaps.
+
+The time complexity of Priority Queue using Heaps will be O(h) i.e. O(log n) in both worst case and best case scenarios.
+
+Min Priority and Max Priority Queue act as sorting elements in increasing and decreasing order which is known as Heap Sort.
+
+We use Inplace keyword for algorithms whose space complexity is O(1).
+
+ 
