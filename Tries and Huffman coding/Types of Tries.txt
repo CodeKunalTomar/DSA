@@ -1,0 +1,6 @@
+Types of Tries -
+
+1) Compressed Trie
+2) Pattern Matching(Prefix Tries)
+3) Pattern Matching(Suffix Tries)
+
